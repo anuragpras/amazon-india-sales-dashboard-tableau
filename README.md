@@ -1,7 +1,7 @@
 # amazon-india-sales-dashboard-tableau
 -- Interactive Tableau dashboard analyzing Amazon India's sales data, showcasing trends and insights.
 
-
+Dataset: https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
 
 
 ### Key Features:
